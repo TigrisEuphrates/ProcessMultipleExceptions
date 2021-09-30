@@ -1,0 +1,7 @@
+D:\Users\Tigris\source\repos\ProcessMultipleExceptions\ProcessMultipleExceptions\bin\Debug\ProcessMultipleExceptions.exe.config
+D:\Users\Tigris\source\repos\ProcessMultipleExceptions\ProcessMultipleExceptions\bin\Debug\ProcessMultipleExceptions.exe
+D:\Users\Tigris\source\repos\ProcessMultipleExceptions\ProcessMultipleExceptions\bin\Debug\ProcessMultipleExceptions.pdb
+D:\Users\Tigris\source\repos\ProcessMultipleExceptions\ProcessMultipleExceptions\obj\Debug\ProcessMultipleExceptions.csproj.AssemblyReference.cache
+D:\Users\Tigris\source\repos\ProcessMultipleExceptions\ProcessMultipleExceptions\obj\Debug\ProcessMultipleExceptions.csproj.CoreCompileInputs.cache
+D:\Users\Tigris\source\repos\ProcessMultipleExceptions\ProcessMultipleExceptions\obj\Debug\ProcessMultipleExceptions.exe
+D:\Users\Tigris\source\repos\ProcessMultipleExceptions\ProcessMultipleExceptions\obj\Debug\ProcessMultipleExceptions.pdb
